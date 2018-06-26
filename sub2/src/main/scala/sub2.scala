@@ -1,0 +1,2 @@
+object sub2 {
+}
